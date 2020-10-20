@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Switch_PartyGame/[Ll]ibrary/
+Switch_PartyGame/[Tt]emp/
+Switch_PartyGame/[Oo]bj/
+Switch_PartyGame/[Bb]uild/
+Switch_PartyGame/[Bb]uilds/
+Switch_PartyGame/[Ll]ogs/
+Switch_PartyGame/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
